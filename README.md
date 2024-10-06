@@ -27,7 +27,11 @@
    Use the web interface to add or remove WiFi credentials and CoinGecko [Fingerprint](https://fingerprint.com/).
 
 
-## USES:
+## Usage:
+   ```bash
+   git clone https://github.com/towsif-aktar/Cryptocurrency-Price-Display.git
+```
+
 +  Flash the ESP8266 with the provided [Flash Tool](https://www.espressif.com/en/support/download/other-tools).
 +  After the ESP8266 connects to your WiFi.
 +  You can access the management interface by entering this IP address in a web browser.
