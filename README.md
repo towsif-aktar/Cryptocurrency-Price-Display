@@ -11,9 +11,9 @@
 
 
 ## Requirements
-1. ESP8266 (NodeMCU or similar)
-2. 0.96" OLED display (I2C interface)
-3. CoinGecko Fingerprint
+1. ESP8266 (NodeMCU or similar).
+2. 0.96" OLED display (I2C interface).
+3. [CoinGecko Fingerprint](https://fingerprint.com/).
 
 ## Setup Instructions
 **OLED Display SSD1306 Pin Wiring.**
@@ -24,7 +24,7 @@
 +  SDA	--> GPIO 4 (D2)
 
 ## Configure Credentials:
-   Use the web interface to add or remove WiFi credentials and CoinGecko [Fingerprint](https://fingerprint.com/).
+   Use the web interface to add or remove WiFi credentials and CoinGecko Fingerprint.
 
 
 ## Usage:
